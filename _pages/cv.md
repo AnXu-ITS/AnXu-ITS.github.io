@@ -1,4 +1,4 @@
----
+﻿---
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
@@ -49,6 +49,11 @@ redirect_from:
 
 ## 🔬 Research Experience & Projects
 
+* **Toward Continually Growing World Models: An OaK-Inspired Architecture for Learned Abstraction and Planning** *(Aug 2026)*
+  * Formulated *Structural Continual World Modeling (SCWM)*, integrating parameter-level adaptation ($\theta_t \to \theta_{t+1}$) with a structural adaptation axis ($\mathcal{K}_t \to \mathcal{K}_{t+1}$) based on Richard Sutton's OaK architecture and FC-STOMP lifecycle.
+  * Formalized predictive state representation expansion with constructed features, reward-respecting subtasks with terminal bonuses, predictive option models, and Pareto-optimal utility pruning.
+  * Published preprint with Zenodo DOI: [`10.5281/zenodo.22103257`](https://doi.org/10.5281/zenodo.22103257) | GitHub: [`AnXu-ITS/OaK-World-Model`](https://github.com/AnXu-ITS/OaK-World-Model).
+
 * **Driving World Models for Closed-Loop Simulation and Responsive Traffic Worlds** *(Ongoing / Survey)*
   * Conducting research on Driving World Models as learned closed-loop simulators, focusing on environmental feedback and responsive traffic dynamics when autonomous vehicles execute counterfactual off-log actions.
   * Established a Simulation-Closure framework (*Replay-Constrained* $\rightarrow$ *Ego-Responsive* $\rightarrow$ *Traffic-Reactive*) and evaluated models across Observation Fidelity, Ego-Response Fidelity, Traffic Reactivity, and Closed-Loop Validity.
@@ -70,7 +75,7 @@ redirect_from:
 ## 🛠️ Skills & Expertise
 
 * **AI Agent Engineering**: Long-horizon Task Agents, Agent Skill & SOP Design, Tool Use, Workflow Orchestration, Vibe Coding (Codex, Hermes, pi)
-* **AI/LLM & Algorithms**: Tokenization, BPE, Transformer, Model Distillation, Reinforcement Learning (DQN, Policy Gradient)
+* **AI/LLM & Algorithms**: Continual Learning, World Models, OaK Architecture, Reinforcement Learning (DQN, Options), Model Distillation, Tokenization/BPE
 * **Programming & Data Science**: Python, SQL, MATLAB, Git, Pandas, NumPy, GeoPandas, Matplotlib
 * **Autonomous Driving & ITS**: V2X (RSU/OBU, SPaT), Sensor Fusion (LiDAR, Camera, Radar), BEV Representation, Trajectory Analysis, SUMO, TraCI, PTV VISSIM, PTV VISUM, PTV Optima
 * **Engineering Tools**: QGIS, AutoCAD, ANSYS, LaTeX, Markdown
@@ -88,4 +93,3 @@ redirect_from:
 
 * **Dr. Martin Margreiter** — IABG Industrieanlagen-Betriebsgesellschaft mbH, Munich, Germany (Email: `margreiter@iabg.de`)
 * **Liu Xiaodong** — (Email: `xiaodong.liu@outlook.com`)
-

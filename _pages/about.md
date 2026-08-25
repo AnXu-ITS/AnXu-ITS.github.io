@@ -1,4 +1,4 @@
----
+﻿---
 permalink: /
 title: "About Me"
 author_profile: true
@@ -17,8 +17,9 @@ My research lies at the intersection of **Artificial Intelligence**, **Autonomou
 
 ## 🔬 Research Interests
 
-* **AI Agent Engineering & LLMs**: Long-horizon task agents, agent skill & SOP design, tool-use workflows, tokenization/BPE mechanisms, and model distillation (Teacher–Student).
+* **Continual World Models & Reinforcement Learning**: Structural Continual World Modeling (SCWM), lifelong model learning, OaK architecture (Feature $\to$ SubTask $\to$ Option $\to$ Model $\to$ Planning), temporal abstraction, and plasticity retention.
 * **Driving World Models**: Generative world models for closed-loop traffic simulation, ego-response fidelity, and traffic reactivity under counterfactual / off-log actions.
+* **AI Agent Engineering & LLMs**: Long-horizon task agents, agent skill & SOP design, tool-use workflows, tokenization/BPE mechanisms, and model distillation (Teacher–Student).
 * **Autonomous Driving & V2X**: Vehicle-to-Infrastructure (V2I/V2X) cooperative perception, BEV scene representations, and real-world connected vehicle control.
 * **Reinforcement Learning in Transportation**: Deep Q-Networks (DQN) and adaptive traffic signal control for mixed autonomous and human-driven traffic.
 
@@ -26,6 +27,7 @@ My research lies at the intersection of **Artificial Intelligence**, **Autonomou
 
 ## 📢 Recent News
 
+* **[Aug 2026]** Released research paper on Continual World Models: *“Toward Continually Growing World Models: An OaK-Inspired Architecture for Learned Abstraction and Planning”* ([Zenodo DOI](https://doi.org/10.5281/zenodo.22103257) | [GitHub](https://github.com/AnXu-ITS/OaK-World-Model)).
 * **[Jun 2026]** Joined **Sihe Information Technology Co., Ltd.** as an AI Agent Developer, developing long-horizon task agents and reusable agent skills.
 * **[Feb 2026]** Completed Master's degree at **Technical University of Munich Asia (TUM Asia)**!
 * **[Jan 2026]** Completed Master's Thesis on *“Simulation-Based Bidirectional Control between AVs and Adaptive Traffic Signal Control Using Real-World V2X-Infrastructure”* in collaboration with **IABG Munich**.
