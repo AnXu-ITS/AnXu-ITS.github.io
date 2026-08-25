@@ -1,0 +1,51 @@
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+I am an incoming Ph.D. student at **Harbin Institute of Technology (HIT)**. I received my Master of Science (M.Sc.) degree in Railway Engineering (ITS & Autonomous Systems track) from **Technical University of Munich Asia (TUM Asia)**, and my Bachelor of Engineering (B.Eng.) degree in Civil Engineering with Transport from the Joint Program of the **University of Leeds** and **Southwest Jiaotong University (SWJTU-Leeds)**.
+
+Currently, I also work as an **AI Agent Developer** at **Sihe Information Technology Co., Ltd.**, focusing on Long-horizon Task Agents, model distillation, and Agent Skill / SOP design. Previously, I worked on L4 autonomous driving and intelligent transportation systems R&D at the Mobility Innovation Campus (MIC) with **IABG mbH** in Munich, Germany, and on traffic operations simulation at **ST Engineering** in Singapore.
+
+My research lies at the intersection of **Artificial Intelligence**, **Autonomous Driving**, **Driving World Models**, and **Intelligent Transportation Systems (ITS)**. I aim to bridge physical-world mechanisms and AI algorithm-based decision-making to build responsive, closed-loop simulators and intelligent vehicle-infrastructure cooperative control systems.
+
+---
+
+## 🔬 Research Interests
+
+* **AI Agent Engineering & LLMs**: Long-horizon task agents, agent skill & SOP design, tool-use workflows, tokenization/BPE mechanisms, and model distillation (Teacher–Student).
+* **Driving World Models**: Generative world models for closed-loop traffic simulation, ego-response fidelity, and traffic reactivity under counterfactual / off-log actions.
+* **Autonomous Driving & V2X**: Vehicle-to-Infrastructure (V2I/V2X) cooperative perception, BEV scene representations, and real-world connected vehicle control.
+* **Reinforcement Learning in Transportation**: Deep Q-Networks (DQN) and adaptive traffic signal control for mixed autonomous and human-driven traffic.
+
+---
+
+## 📢 Recent News
+
+* **[Jun 2026]** Joined **Sihe Information Technology Co., Ltd.** as an AI Agent Developer, developing long-horizon task agents and reusable agent skills.
+* **[Feb 2026]** Completed Master's degree at **Technical University of Munich Asia (TUM Asia)**!
+* **[Jan 2026]** Completed Master's Thesis on *“Simulation-Based Bidirectional Control between AVs and Adaptive Traffic Signal Control Using Real-World V2X-Infrastructure”* in collaboration with **IABG Munich**.
+* **[Jul 2025]** Started research internship at **IABG mbH** (Mobility Innovation Campus, Munich) on L4 autonomous driving and V2X testing.
+* **[Aug 2024]** Started traffic engineering internship at **ST Engineering Urban Solutions Ltd.** in Singapore.
+* **[Jul 2023]** Graduated with Bachelor of Engineering from **SWJTU-Leeds Joint School**.
+
+---
+
+## 🎓 Education & Trajectory
+
+* **Ph.D. Student (Incoming)**, Harbin Institute of Technology (HIT), China.
+* **M.Sc. in Railway Engineering (ITS Focus)**, Technical University of Munich Asia (TUM Asia), Singapore & Germany, *Sep 2023 – Feb 2026*.
+* **B.Eng. in Civil Engineering with Transport**, University of Leeds / Southwest Jiaotong University Joint School, China & UK, *Sep 2019 – Jul 2023*.
+
+---
+
+## 📬 Contact & Collaboration
+
+* **Email**: [AnX.RTL2324@tum-asia.edu.sg](mailto:AnX.RTL2324@tum-asia.edu.sg)
+* **GitHub**: [@TheanDE](https://github.com/TheanDE)
+* **LinkedIn**: [An Xu](https://www.linkedin.com/in/an-xu-5b1391321)
+* **WeChat / Tel**: +86 17614502469
