@@ -13,10 +13,10 @@ title                    : "An Xu (徐安)"
 title_separator          : "-"
 name                     : &name "An Xu"
 description              : &description "Academic homepage of An Xu. Incoming Ph.D. Student at Harbin Institute of Technology (HIT), M.Sc. from TUM Asia, B.Eng. from SWJTU-Leeds. Research on AI Agents, Autonomous Driving, World Models, and Intelligent Transportation Systems."
-url                      : https://TheanDE.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://AnXu-ITS.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TheanDE/TheanDE.github.io"
+repository               : "AnXu-ITS/AnXu-ITS.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -29,7 +29,7 @@ author:
   bio              : "Incoming Ph.D. @HIT | M.Sc. @TUM | B.Eng. @SWJTU-Leeds. Research on AI, Autonomous Driving, World Models & ITS."
   location         : "Harbin, China"
   employer         : "Harbin Institute of Technology (HIT)"
-  uri              : "https://TheanDE.github.io"
+  uri              : "https://AnXu-ITS.github.io"
   email            : "AnX.RTL2324@tum-asia.edu.sg" 
 
   # Academic websites
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username
   codepen          : # Username
   dribbble         : # Username
-  github           : "TheanDE"
+  github           : "AnXu-ITS"
   kaggle           : # Username  
   stackoverflow    : # Username    
 

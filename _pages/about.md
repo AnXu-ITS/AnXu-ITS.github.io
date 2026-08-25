@@ -46,6 +46,6 @@ My research lies at the intersection of **Artificial Intelligence**, **Autonomou
 ## 📬 Contact & Collaboration
 
 * **Email**: [AnX.RTL2324@tum-asia.edu.sg](mailto:AnX.RTL2324@tum-asia.edu.sg)
-* **GitHub**: [@TheanDE](https://github.com/TheanDE)
+* **GitHub**: [@AnXu-ITS](https://github.com/AnXu-ITS)
 * **LinkedIn**: [An Xu](https://www.linkedin.com/in/an-xu-5b1391321)
 * **WeChat / Tel**: +86 17614502469

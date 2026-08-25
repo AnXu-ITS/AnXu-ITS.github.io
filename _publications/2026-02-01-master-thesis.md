@@ -6,7 +6,7 @@ permalink: /publication/2026-02-01-master-thesis
 excerpt: 'Master thesis on bidirectional coordination between connected autonomous vehicles and adaptive signal control using SUMO, TraCI, and DQN at the IABG Mobility Innovation Campus.'
 date: 2026-02-01
 venue: "Master's Thesis, Technical University of Munich Asia (TUM Asia) & IABG mbH"
-paperurl: 'https://TheanDE.github.io/files/An_Xu_CV.pdf'
+paperurl: 'https://AnXu-ITS.github.io/files/An_Xu_CV.pdf'
 citation: 'Xu, An. (2026). &quot;Simulation-Based Bidirectional Control between AVs and Adaptive Traffic Signal Control Using Real-World V2X-Infrastructure.&quot; <i>Master&#39;s Thesis, Technical University of Munich Asia</i>.'
 ---
 
