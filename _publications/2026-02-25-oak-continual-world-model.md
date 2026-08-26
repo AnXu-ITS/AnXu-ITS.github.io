@@ -8,7 +8,15 @@ date: 2026-02-25
 venue: "Zenodo Preprint / Workshop on Continual World Models, NeurIPS 2026"
 paperurl: "https://doi.org/10.5281/zenodo.22103257"
 citation: 'Xu, An. (2026). &quot;Toward Continually Growing World Models: An OaK-Inspired Architecture for Learned Abstraction and Planning.&quot; <i>Zenodo Preprint</i>. doi:10.5281/zenodo.22103257.'
+header:
+  teaser: "scwm-architecture.png"
 ---
+
+<p align="center">
+  <img src="/images/scwm-architecture.png" alt="SCWM Architecture" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);" />
+  <br/>
+  <em><b>Figure 1:</b> The Structural Continual World Modeling (SCWM) architecture combining a Fast Online Interaction Loop (1-step latent dynamics) with a Slow Structural Continual Loop (OaK FC-STOMP progression).</em>
+</p>
 
 ## Abstract
 
