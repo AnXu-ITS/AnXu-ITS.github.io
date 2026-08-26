@@ -2,9 +2,9 @@
 title: "Toward Continually Growing World Models: An OaK-Inspired Architecture for Learned Abstraction and Planning"
 collection: publications
 category: preprints
-permalink: /publication/2026-08-25-oak-continual-world-model
+permalink: /publication/2026-oak-continual-world-model
 excerpt: 'A position paper introducing Structural Continual World Modeling (SCWM), operationalizing Richard Sutton’s OaK architecture and FC-STOMP lifecycle to overcome plasticity loss and compounding error in lifelong world models.'
-date: 2026-08-25
+date: 2026-02-25
 venue: "Zenodo Preprint / Workshop on Continual World Models, NeurIPS 2026"
 paperurl: "https://doi.org/10.5281/zenodo.22103257"
 citation: 'Xu, An. (2026). &quot;Toward Continually Growing World Models: An OaK-Inspired Architecture for Learned Abstraction and Planning.&quot; <i>Zenodo Preprint</i>. doi:10.5281/zenodo.22103257.'
@@ -30,7 +30,7 @@ In this position paper, we argue that genuine continual world modeling requires 
 
 * **Zenodo DOI**: [10.5281/zenodo.22103257](https://doi.org/10.5281/zenodo.22103257)
 * **GitHub Repository**: [AnXu-ITS/OaK-World-Model](https://github.com/AnXu-ITS/OaK-World-Model)
-* **Preprint PDF**: [Download PDF ({{ site.baseurl }}/files/Toward_Continually_Growing_World_Models_Preprint.pdf)](/files/Toward_Continually_Growing_World_Models_Preprint.pdf)
+* **Preprint PDF**: [Download PDF](/files/Toward_Continually_Growing_World_Models_Preprint.pdf)
 
 ---
 
