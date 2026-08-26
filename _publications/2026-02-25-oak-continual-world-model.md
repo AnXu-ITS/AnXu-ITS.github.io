@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Toward Continually Growing World Models: An OaK-Inspired Architecture for Learned Abstraction and Planning"
 collection: publications
 category: preprints
