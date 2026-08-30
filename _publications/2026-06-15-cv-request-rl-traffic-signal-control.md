@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Conditional Effects of Connected-Vehicle Requests in Reinforcement-Learning Traffic Signal Control"
 collection: publications
 category: preprints
