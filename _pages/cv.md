@@ -1,4 +1,4 @@
----
+﻿---
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
@@ -58,6 +58,11 @@ redirect_from:
   * Authored comprehensive survey investigating Driving World Models as learned closed-loop simulators, focusing on counterfactual off-log environmental feedback and multi-agent reactivity.
   * Formulated a 3-regime Simulation-Closure framework (*Replay-Constrained* $\rightarrow$ *Ego-Responsive* $\rightarrow$ *Traffic-Reactive*) and established a 5-layer claim-specific validity stack spanning observation fidelity, ego controllability, traffic-response validity, policy validity, and corridor/network scale.
   * Released complete preprint, reproducible LaTeX package, and editable PowerPoint figures. GitHub: [`AnXu-ITS/driving-world-models-survey`](https://github.com/AnXu-ITS/driving-world-models-survey) | PDF: [`Download Full Survey`](/files/From_Foresight_to_Reactive_Traffic_Worlds_Survey.pdf).
+
+* **Conditional Effects of Connected-Vehicle Requests in Reinforcement-Learning Traffic Signal Control** *(Jun 2026)*
+  * Disentangled queue-responsive RL adaptation from connected-vehicle request conditioning through matched DQN ablations across 2,730 one-hour SUMO evaluation runs.
+  * Conducted 2-dimensional Crossed-Bootstrap uncertainty quantification (50,000 resamples) across 5 training seeds $\times$ 10 paired traffic seeds over 3 demand levels and 7 CV penetrations.
+  * Released open-source benchmark codebase, pre-trained weights, and full evaluation logs. GitHub: [`AnXu-ITS/cv-request-dqn-tsc`](https://github.com/AnXu-ITS/cv-request-dqn-tsc) | PDF: [`Download Manuscript (PDF)`](/files/Conditional_Effects_of_Connected_Vehicle_Requests.pdf).
 
 * **Simulation-Based Bidirectional Control between AVs and Adaptive Traffic Signal Control Using Real-World V2X-Infrastructure** *(Aug 2025 – Jan 2026)*
   * *Master's Thesis / IABG-MIC Project*

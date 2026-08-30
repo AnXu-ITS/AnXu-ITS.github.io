@@ -1,4 +1,4 @@
----
+﻿---
 permalink: /
 title: "About Me"
 author_profile: true
@@ -48,6 +48,21 @@ My research lies at the intersection of **Artificial Intelligence**, **Autonomou
   </p>
 </div>
 
+<div style="background: var(--global-bg-color, #fdfdfd); border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+  <a href="/publication/2026-cv-request-rl-traffic-signal-control">
+    <img src="/images/request_conditioning_effect.png" alt="Conditional Effects of Connected-Vehicle Requests" style="width: 100%; border-radius: 6px; margin-bottom: 12px;" />
+  </a>
+  <h3 style="margin-top: 0;"><a href="/publication/2026-cv-request-rl-traffic-signal-control">Conditional Effects of Connected-Vehicle Requests in Reinforcement-Learning Traffic Signal Control</a></h3>
+  <p style="font-size: 0.95em; line-height: 1.5; color: var(--global-text-color, #4a5568); margin-bottom: 10px;">
+    <b>Abstract:</b> A controlled factorial study disentangling queue-responsive RL adaptation from connected-vehicle request conditioning across 2,730 simulation runs and 2D crossed-bootstrap uncertainty analysis on a site-derived Munich testbed.
+  </p>
+  <p style="font-size: 0.9em; margin-bottom: 0;">
+    <a href="/publication/2026-cv-request-rl-traffic-signal-control" class="btn btn--primary" style="margin-right: 8px;"><i class="fas fa-book-open"></i> Paper Details</a>
+    <a href="https://github.com/AnXu-ITS/cv-request-dqn-tsc" class="btn btn--inverse" style="margin-right: 8px;"><i class="fab fa-github"></i> GitHub</a>
+    <a href="/files/Conditional_Effects_of_Connected_Vehicle_Requests.pdf" class="btn btn--success"><i class="fas fa-file-pdf"></i> PDF</a>
+  </p>
+</div>
+
 ---
 
 ## 🔬 Research Interests
@@ -64,6 +79,7 @@ My research lies at the intersection of **Artificial Intelligence**, **Autonomou
 
 * **[Aug 2026]** Released comprehensive research survey on Driving World Models: *“From Foresight to Reactive Traffic Worlds: A Survey of Driving World Models for Closed-Loop Simulation”* with full open-source resources ([Survey Details](/publication/2026-driving-world-models-survey) | [GitHub](https://github.com/AnXu-ITS/driving-world-models-survey) | [PDF](/files/From_Foresight_to_Reactive_Traffic_Worlds_Survey.pdf)).
 * **[Aug 2026]** Released research paper on Continual World Models: *“Toward Continually Growing World Models: An OaK-Inspired Architecture for Learned Abstraction and Planning”* ([Zenodo DOI](https://doi.org/10.5281/zenodo.22103257) | [GitHub](https://github.com/AnXu-ITS/OaK-World-Model)).
+* **[Jun 2026]** Completed research paper: *“Conditional Effects of Connected-Vehicle Requests in Reinforcement-Learning Traffic Signal Control”*, conducting 2,730 multi-seed runs and 2D crossed-bootstrap evaluation on a site-derived Munich testbed ([Paper Details](/publication/2026-cv-request-rl-traffic-signal-control) | [GitHub](https://github.com/AnXu-ITS/cv-request-dqn-tsc) | [PDF](/files/Conditional_Effects_of_Connected_Vehicle_Requests.pdf)).
 * **[Jun 2026]** Joined **Sihe Information Technology Co., Ltd.** as an AI Agent Developer, developing long-horizon task agents and reusable agent skills.
 * **[Feb 2026]** Completed Master's degree at **Technical University of Munich Asia (TUM Asia)**!
 * **[Jan 2026]** Completed Master's Thesis on *“Simulation-Based Bidirectional Control between AVs and Adaptive Traffic Signal Control Using Real-World V2X-Infrastructure”* in collaboration with **IABG Munich**.
