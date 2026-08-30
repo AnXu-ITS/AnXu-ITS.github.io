@@ -1,7 +1,7 @@
 ﻿---
 title: "Conditional Effects of Connected-Vehicle Requests in Reinforcement-Learning Traffic Signal Control"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2026-cv-request-rl-traffic-signal-control
 excerpt: 'A controlled factorial study disentangling queue-responsive RL adaptation from connected-vehicle request conditioning across 2,730 simulation runs and 2D crossed-bootstrap uncertainty analysis.'
 date: 2026-06-15
