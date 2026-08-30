@@ -8,15 +8,7 @@ date: 2026-06-15
 venue: "Preprint / In Submission"
 paperurl: "/files/Conditional_Effects_of_Connected_Vehicle_Requests.pdf"
 citation: 'Xu, An. (2026). &quot;Conditional Effects of Connected-Vehicle Requests in Reinforcement-Learning Traffic Signal Control.&quot; <i>Preprint</i>.'
-header:
-  teaser: "request_conditioning_effect.png"
 ---
-
-<p align="center">
-  <img src="/images/request_conditioning_effect.png" alt="Request conditioning is demand- and training-sensitive, not penetration-monotonic" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.12);" />
-  <br/>
-  <em><b>Figure 1:</b> Paired differences ($\text{Full DQN} - \text{Queue-only DQN}$) in average queue across 21 demand $\times$ penetration conditions with 95% 2D Crossed-Bootstrap error bars (50,000 resamples). Negative values favor the complete request mechanism; hollow markers at 0% denote a training-history diagnostic.</em>
-</p>
 
 ## Abstract
 
