@@ -54,9 +54,10 @@ redirect_from:
   * Formalized predictive state representation expansion with constructed features, reward-respecting subtasks with terminal bonuses, predictive option models, and Pareto-optimal utility pruning.
   * Published preprint with Zenodo DOI: [`10.5281/zenodo.22103257`](https://doi.org/10.5281/zenodo.22103257) | GitHub: [`AnXu-ITS/OaK-World-Model`](https://github.com/AnXu-ITS/OaK-World-Model).
 
-* **Driving World Models for Closed-Loop Simulation and Responsive Traffic Worlds** *(Ongoing / Survey)*
-  * Conducting research on Driving World Models as learned closed-loop simulators, focusing on environmental feedback and responsive traffic dynamics when autonomous vehicles execute counterfactual off-log actions.
-  * Established a Simulation-Closure framework (*Replay-Constrained* $\rightarrow$ *Ego-Responsive* $\rightarrow$ *Traffic-Reactive*) and evaluated models across Observation Fidelity, Ego-Response Fidelity, Traffic Reactivity, and Closed-Loop Validity.
+* **From Foresight to Reactive Traffic Worlds: A Survey of Driving World Models for Closed-Loop Simulation** *(Aug 2026)*
+  * Authored comprehensive survey investigating Driving World Models as learned closed-loop simulators, focusing on counterfactual off-log environmental feedback and multi-agent reactivity.
+  * Formulated a 3-regime Simulation-Closure framework (*Replay-Constrained* $\rightarrow$ *Ego-Responsive* $\rightarrow$ *Traffic-Reactive*) and established a 5-layer claim-specific validity stack spanning observation fidelity, ego controllability, traffic-response validity, policy validity, and corridor/network scale.
+  * Released complete preprint, reproducible LaTeX package, and editable PowerPoint figures. GitHub: [`AnXu-ITS/driving-world-models-survey`](https://github.com/AnXu-ITS/driving-world-models-survey) | PDF: [`Download Full Survey`](/files/From_Foresight_to_Reactive_Traffic_Worlds_Survey.pdf).
 
 * **Simulation-Based Bidirectional Control between AVs and Adaptive Traffic Signal Control Using Real-World V2X-Infrastructure** *(Aug 2025 – Jan 2026)*
   * *Master's Thesis / IABG-MIC Project*
