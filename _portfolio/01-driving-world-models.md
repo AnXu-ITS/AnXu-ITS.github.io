@@ -49,6 +49,7 @@ We formalize three distinct feedback regimes across learned driving simulators:
 
 ## 🔗 Resources & Publications
 
+* **SSRN Working Paper**: [SSRN: 7383662](https://ssrn.com/abstract=7383662) | [DOI: 10.2139/ssrn.7383662](https://dx.doi.org/10.2139/ssrn.7383662)
 * **Publication Page**: [View Publication Details](/publication/2026-driving-world-models-survey)
 * **Preprint PDF (24 pages)**: [Download PDF](/files/From_Foresight_to_Reactive_Traffic_Worlds_Survey.pdf)
 * **GitHub Repository**: [AnXu-ITS/driving-world-models-survey](https://github.com/AnXu-ITS/driving-world-models-survey)

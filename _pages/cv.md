@@ -57,7 +57,7 @@ redirect_from:
 * **From Foresight to Reactive Traffic Worlds: A Survey of Driving World Models for Closed-Loop Simulation** *(Aug 2026)*
   * Authored comprehensive survey investigating Driving World Models as learned closed-loop simulators, focusing on counterfactual off-log environmental feedback and multi-agent reactivity.
   * Formulated a 3-regime Simulation-Closure framework (*Replay-Constrained* $\rightarrow$ *Ego-Responsive* $\rightarrow$ *Traffic-Reactive*) and established a 5-layer claim-specific validity stack spanning observation fidelity, ego controllability, traffic-response validity, policy validity, and corridor/network scale.
-  * Released complete preprint, reproducible LaTeX package, and editable PowerPoint figures. GitHub: [`AnXu-ITS/driving-world-models-survey`](https://github.com/AnXu-ITS/driving-world-models-survey) | PDF: [`Download Full Survey`](/files/From_Foresight_to_Reactive_Traffic_Worlds_Survey.pdf).
+  * Released complete preprint on SSRN: [`SSRN: 7383662`](https://ssrn.com/abstract=7383662) (DOI: [`10.2139/ssrn.7383662`](https://dx.doi.org/10.2139/ssrn.7383662)), reproducible LaTeX package, and editable PowerPoint figures. GitHub: [`AnXu-ITS/driving-world-models-survey`](https://github.com/AnXu-ITS/driving-world-models-survey) | PDF: [`Download Full Survey`](/files/From_Foresight_to_Reactive_Traffic_Worlds_Survey.pdf).
 
 * **Conditional Effects of Connected-Vehicle Requests in Reinforcement-Learning Traffic Signal Control** *(Jun 2026)*
   * Disentangled queue-responsive RL adaptation from connected-vehicle request conditioning through matched DQN ablations across 2,730 one-hour SUMO evaluation runs.

@@ -5,9 +5,9 @@ category: preprints
 permalink: /publication/2026-driving-world-models-survey
 excerpt: 'A comprehensive survey establishing a Simulation-Closure framework (Replay-Constrained, Ego-Responsive, Traffic-Reactive) and a 5-layer validity stack for learned driving world models in closed-loop autonomous driving simulation.'
 date: 2026-08-30
-venue: "Preprint / Open Research Resource"
-paperurl: "https://github.com/AnXu-ITS/driving-world-models-survey"
-citation: 'Xu, An, Jin, Zekai, Zhang, Hanrong, Sun, Xiaoning, Zhang, Chengbo, and Yin, Yunfei. (2026). &quot;From Foresight to Reactive Traffic Worlds: A Survey of Driving World Models for Closed-Loop Simulation.&quot; <i>Preprint</i>. https://github.com/AnXu-ITS/driving-world-models-survey.'
+venue: "SSRN Preprint / Open Research Resource"
+paperurl: "https://ssrn.com/abstract=7383662"
+citation: 'Xu, An, Jin, Zekai, Sun, Xiaoning, Zhang, Chengbo, and Yin, Yunfei. (2026). &quot;From Foresight to Reactive Traffic Worlds: A Survey of Driving World Models for Closed-Loop Simulation.&quot; <i>Available at SSRN</i>: <a href="https://ssrn.com/abstract=7383662">ssrn.com/abstract=7383662</a> or <a href="https://dx.doi.org/10.2139/ssrn.7383662">doi.org/10.2139/ssrn.7383662</a>.'
 header:
   teaser: "figure1_feedback_paths.png"
 ---
@@ -71,6 +71,7 @@ The central argument is that **visual plausibility, executable feedback, empiric
 
 ## 🔗 Links & Resources
 
+* **SSRN Working Paper**: [SSRN: 7383662](https://ssrn.com/abstract=7383662) | [DOI: 10.2139/ssrn.7383662](https://dx.doi.org/10.2139/ssrn.7383662)
 * **GitHub Repository**: [AnXu-ITS/driving-world-models-survey](https://github.com/AnXu-ITS/driving-world-models-survey)
 * **Preprint PDF (24 pages)**: [Download PDF](/files/From_Foresight_to_Reactive_Traffic_Worlds_Survey.pdf)
 * **Editable Figures (PPTX)**: [Download on GitHub](https://github.com/AnXu-ITS/driving-world-models-survey/tree/main/editable_figures)
@@ -92,10 +93,13 @@ The central argument is that **visual plausibility, executable feedback, empiric
 ## 📖 BibTeX Citation
 
 ```bibtex
-@misc{xu2026foresight,
-  title  = {From Foresight to Reactive Traffic Worlds: A Survey of Driving World Models for Closed-Loop Simulation},
-  author = {Xu, An and Jin, Zekai and Zhang, Hanrong and Sun, Xiaoning and Zhang, Chengbo and Yin, Yunfei},
-  year   = {2026},
-  url    = {https://github.com/AnXu-ITS/driving-world-models-survey}
+@article{xu2026foresight,
+  title   = {From Foresight to Reactive Traffic Worlds: A Survey of Driving World Models for Closed-Loop Simulation},
+  author  = {Xu, An and Jin, Zekai and Sun, Xiaoning and Zhang, Chengbo and Yin, Yunfei},
+  journal = {SSRN Electronic Journal},
+  year    = {2026},
+  month   = {August},
+  doi     = {10.2139/ssrn.7383662},
+  url     = {https://ssrn.com/abstract=7383662}
 }
 ```

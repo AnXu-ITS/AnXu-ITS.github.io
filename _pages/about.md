@@ -27,6 +27,7 @@ My research lies at the intersection of **Artificial Intelligence**, **Autonomou
   </p>
   <p style="font-size: 0.9em; margin-bottom: 0;">
     <a href="/publication/2026-driving-world-models-survey" class="btn btn--primary" style="margin-right: 8px;"><i class="fas fa-book-open"></i> Survey Details</a>
+    <a href="https://ssrn.com/abstract=7383662" class="btn btn--info" style="margin-right: 8px;"><i class="fas fa-external-link-alt"></i> SSRN</a>
     <a href="https://github.com/AnXu-ITS/driving-world-models-survey" class="btn btn--inverse" style="margin-right: 8px;"><i class="fab fa-github"></i> GitHub</a>
     <a href="/files/From_Foresight_to_Reactive_Traffic_Worlds_Survey.pdf" class="btn btn--success"><i class="fas fa-file-pdf"></i> PDF</a>
   </p>
@@ -62,7 +63,7 @@ My research lies at the intersection of **Artificial Intelligence**, **Autonomou
 
 ## 📢 Recent News
 
-* **[Aug 2026]** Released comprehensive research survey on Driving World Models: *“From Foresight to Reactive Traffic Worlds: A Survey of Driving World Models for Closed-Loop Simulation”* with full open-source resources ([Survey Details](/publication/2026-driving-world-models-survey) | [GitHub](https://github.com/AnXu-ITS/driving-world-models-survey) | [PDF](/files/From_Foresight_to_Reactive_Traffic_Worlds_Survey.pdf)).
+* **[Aug 2026]** Released comprehensive research survey on Driving World Models: *“From Foresight to Reactive Traffic Worlds: A Survey of Driving World Models for Closed-Loop Simulation”* with full open-source resources ([Survey Details](/publication/2026-driving-world-models-survey) | [SSRN](https://ssrn.com/abstract=7383662) | [GitHub](https://github.com/AnXu-ITS/driving-world-models-survey) | [PDF](/files/From_Foresight_to_Reactive_Traffic_Worlds_Survey.pdf)).
 * **[Aug 2026]** Released research paper on Continual World Models: *“Toward Continually Growing World Models: An OaK-Inspired Architecture for Learned Abstraction and Planning”* ([Zenodo DOI](https://doi.org/10.5281/zenodo.22103257) | [GitHub](https://github.com/AnXu-ITS/OaK-World-Model)).
 * **[Jun 2026]** Completed research paper: *“Conditional Effects of Connected-Vehicle Requests in Reinforcement-Learning Traffic Signal Control”*, conducting 2,730 multi-seed runs and 2D crossed-bootstrap evaluation on a site-derived Munich testbed ([Paper Details](/publication/2026-cv-request-rl-traffic-signal-control) | [GitHub](https://github.com/AnXu-ITS/cv-request-dqn-tsc) | [PDF](/files/Conditional_Effects_of_Connected_Vehicle_Requests.pdf)).
 * **[Jun 2026]** Joined **Sihe Information Technology Co., Ltd.** as an AI Agent Developer, developing long-horizon task agents and reusable agent skills.
